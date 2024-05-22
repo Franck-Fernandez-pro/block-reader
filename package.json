@@ -1,0 +1,20 @@
+{
+  "name": "block-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Franck Fernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "merkletreejs": "^0.3.11"
+  }
+}
